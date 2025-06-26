@@ -8,7 +8,7 @@ from pathlib import Path
 bot = telebot.TeleBot(token='7497684081:AAG1kaEeLCCUa4ftLPAg266XYQQiaNAhcHE')
 
 # Конфигурация путей
-BASE_DIR = Path(file).parent
+BASE_DIR = Path(__file__).parent
 DB_PATH = BASE_DIR / 'music.sql'
 MUSIC_DIR = BASE_DIR / 'MUSIC'
 MUSIC_DIR.mkdir(exist_ok=True)  # Создаем папку для музыки, если её нет
