@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Инициализация бота
 
-bot = telebot.TeleBot(token='7497684081:AAG1kaEeLCCUa4ftLPAg266XYQQiaNAhcHE')
+bot = telebot.TeleBot(token='ЧАСТНОЕ ПОЛЬЗОВАНИЕ')
 
 # Конфигурация путей
 

@@ -1,1 +1,1 @@
-token = '7497684081:AAG1kaEeLCCUa4ftLPAg266XYQQiaNAhcHE'
+token = 'ЧАСТНОЕ ПОЛЬЗОВАНИЕ'
